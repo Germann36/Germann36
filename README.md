@@ -1,4 +1,4 @@
-## Hi, I'm German.
+## Hi, I'm German 👋
 <!--
 **Germann36/Germann36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
